@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>PoemsAPI</artifactId>
+    <artifactId>Pipeline</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
